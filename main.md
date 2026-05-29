@@ -50,19 +50,19 @@ Deltarune DDD 旨在利用极具契合度的音乐框架与重新解构的剧情
 
 ---
 
-## 莲台野夜行
+## 莲台野夜行 ～ Ghostly Field Club.
 
 与 DR 原作第一章，进入暗世界后的内容对应。
 
 隐藏曲目 妖妖跋扈 who done it
 
-## 梦违科学世纪
+## 梦违科学世纪 ～ Changeability of Strange Dream
 
 与 DR 原作第二章对应。
 
 隐藏曲目 灰姑娘的笼子　～ Kagome-Kagome（Cradle - 东方幻乐祀典）
 
-## 卯酉东海道
+## 卯酉东海道 ～ Retrospective 53 minutes
 
 与 DR 原作第三章对应。
 
@@ -72,7 +72,7 @@ Deltarune DDD 旨在利用极具契合度的音乐框架与重新解构的剧情
 
 待定：第三章的范围只涉及 DR 原作第三章的 TV 回合。且 TV 剧内容会被修改为“新干线旅行纪录片”。
 
-## 大空魔术
+## 大空魔术 ～ Magical Astronomy
 
 这一章包含原作第四章开始至第一圣域的全部内容。
 
@@ -84,21 +84,21 @@ Deltarune DDD 旨在利用极具契合度的音乐框架与重新解构的剧情
 
 隐藏曲目 法界之火
 
-## 鸟船遗迹
+## 鸟船遗迹 ～ Trojan Green Asteroid
 
 这一章包含，并拓展了第四章 第三圣域 全部内容。
 
 隐藏曲目 Last Remote
 
-## 伊奘诺物质
+## 伊奘诺物质 ～ Neo-traditionalism of Japan.
 
 第五章？
 
-## 燕石博物志
+## 燕石博物志 ～ Dr.Latency's Freak Report.
 
 第六章 第一部分？
 
-## 旧约酒馆
+## 旧约酒馆 ～ Dateless Bar "Old Adam".
 
 第六章 第二部分？
 
@@ -106,7 +106,7 @@ Deltarune DDD 旨在利用极具契合度的音乐框架与重新解构的剧情
 
 第七章 第一部分？
 
-## 七夕坂梦幻能
+## 七夕坂梦幻能 ～ Taboo Japan Disentanglement.
 
 第七章 第二部分？
 
