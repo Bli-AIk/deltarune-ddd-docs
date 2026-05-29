@@ -1,19 +1,21 @@
 {
 	"nodes":[
-		{"id":"e4b913d2e17ff540","x":-340,"y":-240,"width":400,"height":140,"color":"6","type":"file","file":"designs/1-GFC/00 走在夜晚的莲台野.md"},
-		{"id":"bc04dc8d289621e6","x":-265,"y":30,"width":251,"height":120,"color":"6","type":"text","text":"### 走在夜晚的莲台野\n\n让故事在这里开始吧……"},
-		{"id":"aded78effd076f69","x":-305,"y":220,"width":331,"height":180,"color":"4","type":"text","text":"#### 初始化项目\n\n万事总得有个头啊。虽然这是三进宫了，但我们开始要乐乐呵呵的把库给建了，然后初始化项目，推到github，这就是起点了啊呀……"},
-		{"id":"ff870372dc99bd5b","x":60,"y":440,"width":470,"height":320,"color":"1","type":"text","text":"#### 视听艺术\n\n我得做好一个心理准备——游戏的画面，在可能很长的一段时间内，无法达到我的预期。\n\n我想要光影，想要雾气，想要浓厚的氛围感，完全异于原作（可能是刻意的）极简主义。这样才能附和得上氛围。\n\n但盯着空空的，很原作很像但和我预期差距很远的画面，会很伤人心的。\n\n因此。我的计划是，先草图供上——**即便我有素材，我也先不用**。搞定渲染的所有问题后，再和贴图细节对线。嗯……\n"},
-		{"id":"6673e8cca12660c0","x":-840,"y":440,"width":470,"height":320,"color":"2","type":"text","text":"#### 音频同步\n\n这是个强音频同步调度的作品。音频系统是重中之重，甚至可能得最早来做。\n\n但这事儿其实没那么复杂。只要能对的上拍子就行了。\n写个什么东西广播拍子，然后写个什么东西接收。然后看看有没有延迟。就成了。\n\n日后还可以写点什么调节细微的毫秒差的东西——呃……\n\n一般来说做音游的才先搞这套。哈哈。"},
-		{"id":"6b78166fd28ac996","x":-960,"y":860,"width":310,"height":240,"color":"3","type":"text","text":"#### 出声\n\n先把`macroquad`的音频播放搞明白吧。\n\n能放一个 BGM 就行。"},
-		{"id":"419b897072eedd4d","type":"text","text":"#### 节拍\n\n实现一个节拍器——这需要有一个管音频的……呃……音频？组件？\n\n不。“东西”。它只是个东西。\n\n我们做的顶多算是立即模式。没有ECS。没有OOP。爱咋咋地。","x":-555,"y":860,"width":315,"height":240,"color":"3"}
+		{"id":"e4b913d2e17ff540","type":"file","file":"designs/1-GFC/00 走在夜晚的莲台野.md","x":-340,"y":-240,"width":400,"height":140,"color":"6"},
+		{"id":"bc04dc8d289621e6","type":"text","text":"### 走在夜晚的莲台野\n\n让故事在这里开始吧……","x":-265,"y":30,"width":251,"height":120,"color":"6"},
+		{"id":"aded78effd076f69","type":"text","text":"#### 初始化项目\n\n万事总得有个头啊。虽然这是三进宫了，但我们开始要乐乐呵呵的把库给建了，然后初始化项目，推到github，这就是起点了啊呀……","x":-305,"y":220,"width":331,"height":180,"color":"4"},
+		{"id":"6673e8cca12660c0","type":"text","text":"#### 音频同步\n\n这是个强音频同步调度的作品。音频系统是重中之重，甚至可能得最早来做。\n\n但这事儿其实没那么复杂。只要能对的上拍子就行了。\n写个什么东西广播拍子，然后写个什么东西接收。然后看看有没有延迟。就成了。\n\n日后还可以写点什么调节细微的毫秒差的东西——呃……\n\n一般来说做音游的才先搞这套。哈哈。","x":-840,"y":440,"width":470,"height":320,"color":"2"},
+		{"id":"6b78166fd28ac996","type":"text","text":"#### 出声\n\n先把`macroquad`的音频播放搞明白吧。\n\n能放一个 BGM 就行。","x":-960,"y":860,"width":310,"height":240,"color":"3"},
+		{"id":"419b897072eedd4d","type":"text","text":"#### 节拍\n\n实现一个节拍器——这需要有一个管音频的……呃……音频？组件？\n\n不。“东西”。它只是个东西。\n\n我们做的顶多算是立即模式。没有ECS。没有OOP。爱咋咋地。","x":-555,"y":860,"width":315,"height":240,"color":"3"},
+		{"id":"ff870372dc99bd5b","type":"text","text":"#### 视听艺术\n\n我得做好一个心理准备——游戏的画面，在可能很长的一段时间内，无法达到我的预期。\n\n我想要光影，想要雾气，想要浓厚的氛围感，完全异于原作（可能是刻意的）极简主义。这样才能附和得上氛围。\n\n但盯着空空的，很原作很像但和我预期差距很远的画面，会很伤人心的。\n\n因此。我的计划是，先草图供上——**即便我有素材，我也先不用**。搞定渲染的所有问题后，再和贴图细节对线。嗯……\n","x":26,"y":440,"width":470,"height":320,"color":"1"},
+		{"id":"a57d06649647c483","x":112,"y":15,"width":299,"height":150,"color":"2","type":"text","text":"#### 窗口\n\n先搞个 640 x 480 固定分辨率的窗口出来，当作我们的开味小菜吧。"}
 	],
 	"edges":[
 		{"id":"f92f8e5b6863c124","fromNode":"e4b913d2e17ff540","fromSide":"bottom","toNode":"bc04dc8d289621e6","toSide":"top"},
 		{"id":"5c7512983df3e43f","fromNode":"bc04dc8d289621e6","fromSide":"bottom","toNode":"aded78effd076f69","toSide":"top"},
-		{"id":"90dc6f7b4b787c43","fromNode":"aded78effd076f69","fromSide":"right","toNode":"ff870372dc99bd5b","toSide":"top"},
 		{"id":"5d795afe50b993aa","fromNode":"aded78effd076f69","fromSide":"left","toNode":"6673e8cca12660c0","toSide":"top"},
 		{"id":"ca069fb92e49494f","fromNode":"6673e8cca12660c0","fromSide":"bottom","toNode":"6b78166fd28ac996","toSide":"top"},
-		{"id":"5678dfc245ae17cd","fromNode":"6673e8cca12660c0","fromSide":"bottom","toNode":"419b897072eedd4d","toSide":"top"}
+		{"id":"5678dfc245ae17cd","fromNode":"6673e8cca12660c0","fromSide":"bottom","toNode":"419b897072eedd4d","toSide":"top"},
+		{"id":"98ee571d09a7f581","fromNode":"aded78effd076f69","fromSide":"right","toNode":"a57d06649647c483","toSide":"left"},
+		{"id":"fc88462caf54dd04","fromNode":"a57d06649647c483","fromSide":"bottom","toNode":"ff870372dc99bd5b","toSide":"top"}
 	]
 }
