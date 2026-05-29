@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "tasks/1-GFC/未命名.canvas",
+                "file": "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 223.20000000000002,
+                  "x": -70.60546875,
+                  "y": 284.59921875,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "00 走在夜晚的莲台野"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/1-GFC/未命名.canvas",
+                "file": "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "00 走在夜晚的莲台野 的反向链接列表"
             }
           },
           {
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/1-GFC/未命名.canvas",
+                "file": "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "00 走在夜晚的莲台野 的出链列表"
             }
           },
           {
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks/1-GFC/未命名.canvas",
+                "file": "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "00 走在夜晚的莲台野 的大纲"
             }
           }
         ]
@@ -192,7 +192,7 @@
     "designs/4.3-TGA/_第四章 第三部分 鸟船遗迹 总览.md",
     "main.md",
     "tasks/tasks.md",
-    "tasks/1-GFC/未命名.canvas",
+    "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
     "designs/4.3 鸟船遗迹/_第四章 第三部分 鸟船遗迹 总览.md",
     "designs/4.3-TGA",
     "designs/4.2-UFMJ",
