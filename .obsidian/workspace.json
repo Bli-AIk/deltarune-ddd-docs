@@ -15,13 +15,27 @@
               "state": {
                 "file": "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
                 "viewState": {
-                  "x": 156.1484375,
-                  "y": 560.87421875,
-                  "zoom": 0
+                  "x": -281.8641638266726,
+                  "y": 1106.8719185144444,
+                  "zoom": 0.1997846459946126
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "00 走在夜晚的莲台野"
+            }
+          },
+          {
+            "id": "62c5161fa3718597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "style.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "style"
             }
           }
         ]
@@ -188,16 +202,17 @@
   },
   "active": "482dc26f5926fe87",
   "lastOpenFiles": [
+    "style.md",
+    "readme.md",
+    "tasks/tasks.md",
+    "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
+    "main.md",
     "readme.mdz8izrI.bck",
     "readme.mdcgUAEV.bck",
-    "readme.md",
     "LICENSE-CCBYNC-SA",
     "LICENSE-CC0",
     "designs/4.2-UFMJ/_第四章 第二部分 未知之花 魅知之旅 总览.md",
     "designs/4.3-TGA/_第四章 第三部分 鸟船遗迹 总览.md",
-    "main.md",
-    "tasks/tasks.md",
-    "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
     "designs/4.3 鸟船遗迹/_第四章 第三部分 鸟船遗迹 总览.md",
     "designs/4.3-TGA",
     "designs/4.2-UFMJ",
