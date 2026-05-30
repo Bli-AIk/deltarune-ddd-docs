@@ -15,9 +15,9 @@
               "state": {
                 "file": "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
                 "viewState": {
-                  "x": -281.8641638266726,
-                  "y": 1106.8719185144444,
-                  "zoom": 0.1997846459946126
+                  "x": 358.67434184239124,
+                  "y": 844.0751466884617,
+                  "zoom": -0.1264435863263753
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -202,11 +202,11 @@
   },
   "active": "482dc26f5926fe87",
   "lastOpenFiles": [
+    "main.md",
     "style.md",
     "readme.md",
-    "tasks/tasks.md",
     "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
-    "main.md",
+    "tasks/tasks.md",
     "readme.mdz8izrI.bck",
     "readme.mdcgUAEV.bck",
     "LICENSE-CCBYNC-SA",
