@@ -9,8 +9,10 @@
 		{"id":"532908648709554b","type":"text","text":"#### 再次见面，Kira\n\n`macroquad` 自带的音频组件，对于我们的项目——需要严格匹配音频，做好踩点的工程——完全是不够用的。\n\n还是把老朋友`kira`请回来吧。只不过，这次没有`bevy`社区的封装了——我得直接面对它。","x":-555,"y":1200,"width":315,"height":240,"color":"4"},
 		{"id":"a57d06649647c483","type":"text","text":"#### 窗口\n\n先搞个 640 x 480 固定分辨率的窗口出来，当作我们的开味小菜吧。","x":183,"y":15,"width":299,"height":150,"color":"4"},
 		{"id":"ff870372dc99bd5b","type":"text","text":"#### 视听艺术\n\n我得做好一个心理准备——游戏的画面，在可能很长的一段时间内，无法达到我的预期。\n\n我想要光影，想要雾气，想要浓厚的氛围感，完全异于原作（可能是刻意的）极简主义。这样才能附和得上氛围。\n\n但盯着空空的，很原作很像但和我预期差距很远的画面，会很伤人心的。\n\n因此。我的计划是，先草图供上——**即便我有素材，我也先不用**。搞定渲染的所有问题后，再和贴图细节对线。嗯……\n","x":98,"y":440,"width":470,"height":320,"color":"2"},
-		{"id":"bc969e6f01de6269","x":98,"y":860,"width":314,"height":240,"color":"4","type":"text","text":"#### Render Target\n\n咱首先要做的，就是把渲染的内容放到一个单独的 Target 上。\n\n嘛，许多惊艳视觉效果的基础——这就包括这个曲目需要的\n\n蒙太奇。"},
-		{"id":"6d3d166d98b64158","x":98,"y":1200,"width":314,"height":240,"color":"3","type":"text","text":"#### 简单后处理试水\n\n先做个简单的模糊后处理吧。\n毕竟我们的所谓“蒙太奇”其实……\n\n也是要拿模糊效果的。\n\n实际上蒙太奇这个词用得对不对呢。希腊奶"}
+		{"id":"6d3d166d98b64158","type":"text","text":"#### 简单后处理试水\n\n先做个简单的模糊后处理吧。\n毕竟我们的所谓“蒙太奇”其实……\n\n也是要拿模糊效果的。\n\n实际上蒙太奇这个词用得对不对呢。希腊奶","x":98,"y":1200,"width":470,"height":240,"color":"3"},
+		{"id":"bc969e6f01de6269","type":"text","text":"#### Render Target\n\n咱首先要做的，就是把渲染的内容放到一个单独的 Target 上。\n\n嘛，许多惊艳视觉效果的基础——这就包括这个曲目需要的\n\n蒙太奇。","x":176,"y":860,"width":314,"height":240,"color":"4"},
+		{"id":"85ccfca3f637ac15","x":-59,"y":1600,"width":314,"height":240,"color":"3","type":"text","text":"#### 川濑模糊\n\n使用老资历OpenGL……4-的好处，~~就是可以直接抄shadertoy了哈哈哈哈~~\n\n不管怎样告别wgpu让我……心里还是挺复杂的。\n\n首先要做的效果是 川濑模糊。"},
+		{"id":"4125fa18d658787a","x":333,"y":1600,"width":314,"height":240,"color":"2","type":"text","text":"#### 渲染系统架构？\n\n好吧，从现在开始，多pass的渲染就需要挂上日程了……\n\n这方面的架构我没写过，所以……\n\n~~瞎写就是了。~~"}
 	],
 	"edges":[
 		{"id":"f92f8e5b6863c124","fromNode":"e4b913d2e17ff540","fromSide":"bottom","toNode":"bc04dc8d289621e6","toSide":"top"},
@@ -22,6 +24,8 @@
 		{"id":"fc88462caf54dd04","fromNode":"a57d06649647c483","fromSide":"bottom","toNode":"ff870372dc99bd5b","toSide":"top"},
 		{"id":"e8b90d2f3c88e3ab","fromNode":"419b897072eedd4d","fromSide":"bottom","toNode":"532908648709554b","toSide":"top"},
 		{"id":"07fa9ad13f0672b4","fromNode":"ff870372dc99bd5b","fromSide":"bottom","toNode":"bc969e6f01de6269","toSide":"top"},
-		{"id":"00aa30913c206460","fromNode":"bc969e6f01de6269","fromSide":"bottom","toNode":"6d3d166d98b64158","toSide":"top"}
+		{"id":"00aa30913c206460","fromNode":"bc969e6f01de6269","fromSide":"bottom","toNode":"6d3d166d98b64158","toSide":"top"},
+		{"id":"24a4100713e69885","fromNode":"6d3d166d98b64158","fromSide":"bottom","toNode":"85ccfca3f637ac15","toSide":"top"},
+		{"id":"c9f5a4836a276fa9","fromNode":"6d3d166d98b64158","fromSide":"bottom","toNode":"4125fa18d658787a","toSide":"top"}
 	]
 }
