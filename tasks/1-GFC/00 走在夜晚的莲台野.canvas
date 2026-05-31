@@ -12,11 +12,12 @@
 		{"id":"85ccfca3f637ac15","type":"text","text":"#### 川濑模糊\n\n使用老资历OpenGL……4-的好处，~~就是可以直接抄shadertoy了哈哈哈哈~~\n\n不管怎样告别wgpu让我……心里还是挺复杂的。\n\n首先要做的效果是 川濑模糊。","x":888,"y":2210,"width":314,"height":240,"color":"4"},
 		{"id":"4125fa18d658787a","type":"text","text":"#### 渲染系统架构？\n\n好吧，从现在开始，多pass的渲染就需要挂上日程了……\n\n这方面的架构我没写过，所以……\n\n~~瞎写就是了。~~","x":1280,"y":2210,"width":314,"height":240,"color":"4"},
 		{"id":"6d3d166d98b64158","type":"text","text":"#### 简单后处理试水\n\n先做个简单的模糊后处理吧。\n毕竟我们的所谓“蒙太奇”其实……\n\n也是要拿模糊效果的。\n\n实际上蒙太奇这个词用得对不对呢。希腊奶","x":888,"y":1810,"width":314,"height":240,"color":"4"},
-		{"id":"691fe4cd9928d9d5","x":560,"y":1088,"width":250,"height":232,"color":"2","type":"text","text":"#### 横轴：剪辑画面\n\n时间轴驱动即要求我……随着这曲目的节拍，在时间线上把故事剪好。\n\n……用代码的方式。"},
-		{"id":"fb168b4b410f66c6","x":921,"y":1088,"width":248,"height":232,"color":"2","type":"text","text":"#### 纵轴：视觉艺术\n\n视觉上的追求是我真心希望的——\n\n……但不能操之过急。\n\n如果死磕画面，容易给自己卷进去。"},
+		{"id":"691fe4cd9928d9d5","type":"text","text":"#### 横轴：剪辑画面\n\n时间轴驱动即要求我……随着这曲目的节拍，在时间线上把故事剪好。\n\n……用代码的方式。","x":560,"y":1088,"width":250,"height":232,"color":"2"},
+		{"id":"fb168b4b410f66c6","type":"text","text":"#### 纵轴：视觉艺术\n\n视觉上的追求是我真心希望的——\n\n……但不能操之过急。\n\n如果死磕画面，容易给自己卷进去。","x":921,"y":1088,"width":248,"height":232,"color":"2"},
 		{"id":"ff870372dc99bd5b","type":"text","text":"#### 视听艺术\n\n我得做好一个心理准备——游戏的画面，在可能很长的一段时间内，无法达到我的预期。\n\n我想要光影，想要雾气，想要浓厚的氛围感，完全异于原作（可能是刻意的）极简主义。这样才能附和得上氛围。\n\n但盯着空空的，很原作很像但和我预期差距很远的画面，会很伤人心的。\n\n因此。我的计划是，先草图供上——**即便我有素材，我也先不用**。搞定渲染的所有问题后，再和贴图细节对线。嗯……\n","x":638,"y":560,"width":470,"height":320,"color":"2"},
-		{"id":"392241caf0edeeb6","x":1280,"y":20,"width":360,"height":440,"color":"5","type":"text","text":"#### UI?\n\n哦天哪。背包UI，对话UI。天哪。\n我们真的需要UI吗？\n实际上，我都有点想把背包废掉了。\n\n毕竟压根没有机会开背包啊。全程要么是过场动画，要么就是追逐战。\n\n所以就甭做背包了！哪有那么多麻烦的事情要操心呢。\n\n至于其他的，对话UI等等……需要的时候再做。\n\n最好是拖到最后。哈哈。\n\nYAGNI."},
-		{"id":"2bad76031f70779c","x":-14,"y":550,"width":388,"height":330,"color":"3","type":"text","text":"### 第一部分：追逐战前\n\n这是本曲目的第一部分。即遇到 lanser 前的所有“过场动画”。\n\n这一部分没有任何弹幕。只有画面的过渡和角色的演出。\n\n也许还有少量的文本对话。"}
+		{"id":"392241caf0edeeb6","type":"text","text":"#### UI?\n\n哦天哪。背包UI，对话UI。天哪。\n我们真的需要UI吗？\n实际上，我都有点想把背包废掉了。\n\n毕竟压根没有机会开背包啊。全程要么是过场动画，要么就是追逐战。\n\n所以就甭做背包了！哪有那么多麻烦的事情要操心呢。\n\n至于其他的，对话UI等等……需要的时候再做。\n\n最好是拖到最后。哈哈。\n\nYAGNI.","x":1280,"y":20,"width":360,"height":440,"color":"5"},
+		{"id":"2bad76031f70779c","type":"text","text":"### 第一部分：追逐战前\n\n这是本曲目的第一部分。即遇到 lanser 前的所有“过场动画”。\n\n这一部分没有任何弹幕。只有画面的过渡和角色的演出。\n\n也许还有少量的文本对话。","x":-14,"y":550,"width":388,"height":330,"color":"3"},
+		{"id":"5273ba87917f3a08","x":217,"y":1430,"width":314,"height":240,"color":"3","type":"text","text":"#### Tween\n\n缓动是离不开的——`animato`看样子很符合我的需求。直观而强大。\n\n我需要引入它，并且做一套它的小封装——让它以曲子的时间步进为准。"}
 	],
 	"edges":[
 		{"id":"f92f8e5b6863c124","fromNode":"e4b913d2e17ff540","fromSide":"bottom","toNode":"bc04dc8d289621e6","toSide":"top"},
@@ -34,6 +35,7 @@
 		{"id":"628204b558aa1f41","fromNode":"ff870372dc99bd5b","fromSide":"bottom","toNode":"fb168b4b410f66c6","toSide":"top"},
 		{"id":"3c3fb39e0efab568","fromNode":"fb168b4b410f66c6","fromSide":"bottom","toNode":"bc969e6f01de6269","toSide":"top"},
 		{"id":"21aa43c0ef793a31","fromNode":"aded78effd076f69","fromSide":"bottom","toNode":"2bad76031f70779c","toSide":"top"},
-		{"id":"f9b130ea5dbbed85","fromNode":"2bad76031f70779c","fromSide":"right","toNode":"ff870372dc99bd5b","toSide":"left"}
+		{"id":"f9b130ea5dbbed85","fromNode":"2bad76031f70779c","fromSide":"right","toNode":"ff870372dc99bd5b","toSide":"left"},
+		{"id":"8257f0fd919e5234","fromNode":"691fe4cd9928d9d5","fromSide":"bottom","toNode":"5273ba87917f3a08","toSide":"top"}
 	]
 }
