@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "de5933e3c5ac7868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "designs/1-GFC/00 走在夜晚的莲台野.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 走在夜晚的莲台野"
+            }
+          },
+          {
             "id": "482dc26f5926fe87",
             "type": "leaf",
             "state": {
@@ -15,9 +29,9 @@
               "state": {
                 "file": "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
                 "viewState": {
-                  "x": 331.5335974507221,
-                  "y": 1505.8530553833018,
-                  "zoom": -0.1264435863263753
+                  "x": 399.71435191343414,
+                  "y": 1166.0440866156073,
+                  "zoom": 0.20000000000000007
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -38,7 +52,8 @@
               "title": "style"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,10 +217,11 @@
   },
   "active": "482dc26f5926fe87",
   "lastOpenFiles": [
-    "main.md",
-    "style.md",
-    "readme.md",
+    "designs/1-GFC/00 走在夜晚的莲台野.md",
     "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
+    "style.md",
+    "main.md",
+    "readme.md",
     "tasks/tasks.md",
     "readme.mdz8izrI.bck",
     "readme.mdcgUAEV.bck",
