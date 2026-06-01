@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7554480a6462c28b",
+        "id": "f2911dbf35ab5cca",
         "type": "tabs",
         "children": [
           {
-            "id": "b93bac7accdef3f6",
+            "id": "f3788016994afb8a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
-                "viewState": {
-                  "x": 522.2458290682846,
-                  "y": 1368.0613700299555,
-                  "zoom": -0.0055885261042391
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "00 走在夜晚的莲台野"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -186,8 +179,23 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b93bac7accdef3f6",
+  "active": "25ca494ade4a678d",
   "lastOpenFiles": [
+    "_第四章 第二部分 未知之花 魅知之旅 总览.md",
+    "designs/0 蓬莱人形/02 二色莲花蝶.md.tmp.43785.1780321589627",
+    "designs/0 蓬莱人形/00 总览.md.tmp.43785.1780321588672",
+    "designs/4.1-MA/MA-overview.md",
+    "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
+    "designs/4.3-TGA/TGA-overview.md",
+    "designs/4.2-UFMJ/UFMJ-overview.md",
+    "designs/3-R53M/R53M-overview.md",
+    "designs/2-CoSD/CoSD-overview.md",
+    "designs/1-GFC/GFC-ex.md",
+    "designs/1-GFC/GFC-overview.md",
+    "designs/1-GFC/GFC-09.md",
+    "designs/1-GFC/GFC-08.md",
+    "designs/1-GFC/GFC-02.md",
+    "designs/1-GFC/GFC-00.md",
     "designs/4.3-TGA/_第四章 第三部分 鸟船遗迹 总览.md",
     "designs/1-GFC/00 走在夜晚的莲台野.md",
     "architecture-discussion-summary.md",
@@ -199,11 +207,8 @@
     "music/1-GFC/GFC-1.wav",
     "music/1-GFC/GFC-6.wav",
     "music/1-GFC/GFC-4.wav",
-    "music/1-GFC/GFC-9.wav",
-    "music/1-GFC/GFC-5.wav",
     "media-lib/GFC-01.md",
     "style.md",
-    "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
     "main.md",
     "readme.md",
     "tasks/tasks.md",
@@ -211,10 +216,6 @@
     "designs/4.3 鸟船遗迹/_第四章 第三部分 鸟船遗迹 总览.md",
     "designs/4.1-MA/_第四章 第一部分 大空魔术 总览.md",
     "designs/3-R53M/_第三章 卯酉东海道 总览.md",
-    "designs/4.2 未知之花 魅知之旅/_第四章 第二部分 未知之花 魅知之旅 总览.md",
-    "designs/4.1 大空魔术/_第四章 第一部分 大空魔术 总览.md",
-    "designs/3 卯酉东海道/_第三章 卯酉东海道 总览.md",
-    "designs/2-CoSD/_第二章 梦违科学世纪 总览.md",
-    "designs/1-GFC/_第一章 莲台野夜行 总览.md"
+    "designs/4.2 未知之花 魅知之旅/_第四章 第二部分 未知之花 魅知之旅 总览.md"
   ]
 }
