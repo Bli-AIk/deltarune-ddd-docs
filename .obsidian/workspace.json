@@ -11,14 +11,10 @@
             "id": "f3788016994afb8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "designs/1-GFC/GFC-00.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GFC-00"
+              "title": "新标签页"
             }
           }
         ]
@@ -185,6 +181,11 @@
   },
   "active": "f3788016994afb8a",
   "lastOpenFiles": [
+    "designs/1-GFC/GFC-00.md",
+    "designs/1-GFC/GFC-9.md",
+    "designs/1-GFC/GFC-8.md",
+    "designs/1-GFC/GFC-2.md",
+    "designs/1-GFC/GFC-0.md",
     "_第四章 第二部分 未知之花 魅知之旅 总览.md",
     "designs/0 蓬莱人形/02 二色莲花蝶.md.tmp.43785.1780321589627",
     "designs/0 蓬莱人形/00 总览.md.tmp.43785.1780321588672",
@@ -199,7 +200,6 @@
     "designs/1-GFC/GFC-09.md",
     "designs/1-GFC/GFC-08.md",
     "designs/1-GFC/GFC-02.md",
-    "designs/1-GFC/GFC-00.md",
     "designs/4.3-TGA/_第四章 第三部分 鸟船遗迹 总览.md",
     "designs/1-GFC/00 走在夜晚的莲台野.md",
     "architecture-discussion-summary.md",
@@ -217,9 +217,6 @@
     "readme.md",
     "tasks/tasks.md",
     "designs/4.2-UFMJ/_第四章 第二部分 未知之花 魅知之旅 总览.md",
-    "designs/4.3 鸟船遗迹/_第四章 第三部分 鸟船遗迹 总览.md",
-    "designs/4.1-MA/_第四章 第一部分 大空魔术 总览.md",
-    "designs/3-R53M/_第三章 卯酉东海道 总览.md",
-    "designs/4.2 未知之花 魅知之旅/_第四章 第二部分 未知之花 魅知之旅 总览.md"
+    "designs/4.3 鸟船遗迹/_第四章 第三部分 鸟船遗迹 总览.md"
   ]
 }
