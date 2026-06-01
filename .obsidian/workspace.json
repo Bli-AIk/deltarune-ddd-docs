@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50ad6fb53819e027",
+        "id": "7554480a6462c28b",
         "type": "tabs",
         "children": [
           {
-            "id": "de5933e3c5ac7868",
+            "id": "b93bac7accdef3f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,40 +20,8 @@
               "icon": "lucide-file",
               "title": "00 走在夜晚的莲台野"
             }
-          },
-          {
-            "id": "482dc26f5926fe87",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
-                "viewState": {
-                  "x": 667.2862289540287,
-                  "y": 1376.2106353007257,
-                  "zoom": 0.20000000000000007
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "00 走在夜晚的莲台野"
-            }
-          },
-          {
-            "id": "62c5161fa3718597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "style.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "style"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,32 +183,35 @@
       "bases:新建数据库": false
     }
   },
-  "active": "482dc26f5926fe87",
+  "active": "25ca494ade4a678d",
   "lastOpenFiles": [
+    "music/1-GFC/GFC-0.wav",
+    "music/1-GFC/GFC-7.wav",
+    "music/1-GFC/GFC-2.wav",
+    "music/1-GFC/GFC-10.wav",
+    "music/1-GFC/GFC-8.wav",
+    "music/1-GFC/GFC-1.wav",
+    "music/1-GFC/GFC-6.wav",
+    "music/1-GFC/GFC-4.wav",
+    "music/1-GFC/GFC-9.wav",
+    "music/1-GFC/GFC-5.wav",
+    "music/1-GFC/GFC-3.wav",
     "designs/1-GFC/00 走在夜晚的莲台野.md",
-    "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
+    "media-lib/GFC-01.md",
     "style.md",
+    "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
     "main.md",
     "readme.md",
     "tasks/tasks.md",
-    "readme.mdz8izrI.bck",
-    "readme.mdcgUAEV.bck",
-    "LICENSE-CCBYNC-SA",
-    "LICENSE-CC0",
     "designs/4.2-UFMJ/_第四章 第二部分 未知之花 魅知之旅 总览.md",
     "designs/4.3-TGA/_第四章 第三部分 鸟船遗迹 总览.md",
     "designs/4.3 鸟船遗迹/_第四章 第三部分 鸟船遗迹 总览.md",
-    "designs/4.3-TGA",
-    "designs/4.2-UFMJ",
     "designs/4.1-MA/_第四章 第一部分 大空魔术 总览.md",
-    "designs/4.1-MA",
     "designs/3-R53M/_第三章 卯酉东海道 总览.md",
-    "designs/3-R53M",
     "designs/4.2 未知之花 魅知之旅/_第四章 第二部分 未知之花 魅知之旅 总览.md",
     "designs/4.1 大空魔术/_第四章 第一部分 大空魔术 总览.md",
     "designs/3 卯酉东海道/_第三章 卯酉东海道 总览.md",
     "designs/2-CoSD/_第二章 梦违科学世纪 总览.md",
-    "designs/1-GFC/_第一章 莲台野夜行 总览.md",
-    "tasks/1-GFC"
+    "designs/1-GFC/_第一章 莲台野夜行 总览.md"
   ]
 }
