@@ -19,7 +19,8 @@
 		{"id":"2bad76031f70779c","type":"text","text":"### 第一部分：追逐战前\n\n这是本曲目的第一部分。即遇到 lanser 前的所有“过场动画”。\n\n这一部分没有任何弹幕。只有画面的过渡和角色的演出。\n\n也许还有少量的文本对话。","x":-14,"y":550,"width":388,"height":330,"color":"3"},
 		{"id":"5273ba87917f3a08","type":"text","text":"#### Tween\n\n缓动是离不开的——`animato`看样子很符合我的需求。直观而强大。\n\n我需要引入它，并且做一套它的小封装——让它以曲子的时间步进为准。","x":160,"y":1430,"width":314,"height":240,"color":"4"},
 		{"id":"5fe781b8ae09d597","type":"text","text":"#### Level\n\n我们需要把关卡简单封装为一个Level。\n\nLevel 是由音乐驱动的。因此需要先声明音乐，再进行Level。\n\n它就是后续一切演出的指挥所了。\n\n","x":28,"y":980,"width":305,"height":240,"color":"4"},
-		{"id":"67273af6f663e7c1","x":1300,"y":1100,"width":291,"height":220,"color":"2","type":"text","text":"#### 真正搭建场景？\n\n我们先拿原作的截图凑合了事，但之后，我们需要把这些截图换成真正的场景布景。\n\n嗯，这就需要好好设计设计了，我们需要哪些“名场面……"}
+		{"id":"67273af6f663e7c1","type":"text","text":"#### 真正搭建场景？\n\n我们先拿原作的截图凑合了事，但之后，我们需要把这些截图换成真正的场景布景。\n\n嗯，这就需要好好设计设计了，我们需要哪些“名场面……","x":1300,"y":1100,"width":291,"height":220,"color":"2"},
+		{"id":"7375dca0e4d52b5a","x":1316,"y":614,"width":260,"height":213,"color":"3","type":"text","text":"#### 瓦片地图\n\n我们需要瓦片地图——我们手头也有tiled……tiled也有和mecroquad的集成——那……\n\n集成就好了。"}
 	],
 	"edges":[
 		{"id":"f92f8e5b6863c124","fromNode":"e4b913d2e17ff540","fromSide":"bottom","toNode":"bc04dc8d289621e6","toSide":"top"},
@@ -40,6 +41,7 @@
 		{"id":"f9b130ea5dbbed85","fromNode":"2bad76031f70779c","fromSide":"right","toNode":"ff870372dc99bd5b","toSide":"left"},
 		{"id":"8257f0fd919e5234","fromNode":"691fe4cd9928d9d5","fromSide":"bottom","toNode":"5273ba87917f3a08","toSide":"top"},
 		{"id":"c09e2b7170e1bf3a","fromNode":"2bad76031f70779c","fromSide":"bottom","toNode":"5fe781b8ae09d597","toSide":"top"},
-		{"id":"24cced225d388bfb","fromNode":"fb168b4b410f66c6","fromSide":"right","toNode":"67273af6f663e7c1","toSide":"left"}
+		{"id":"24cced225d388bfb","fromNode":"fb168b4b410f66c6","fromSide":"right","toNode":"67273af6f663e7c1","toSide":"left"},
+		{"id":"06e28d7feacb7044","fromNode":"ff870372dc99bd5b","fromSide":"right","toNode":"7375dca0e4d52b5a","toSide":"left"}
 	]
 }

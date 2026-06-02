@@ -28,14 +28,17 @@
             "id": "12cd1662a10ddde8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "designs/1-GFC/GFC-0.md",
-                "mode": "preview",
-                "source": false
+                "file": "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
+                "viewState": {
+                  "x": 1453.309609394434,
+                  "y": 702.6975221683165,
+                  "zoom": -0.0055885261042391
+                }
               },
-              "icon": "lucide-file",
-              "title": "GFC-0"
+              "icon": "lucide-layout-dashboard",
+              "title": "00 走在夜晚的莲台野"
             }
           }
         ],
@@ -203,8 +206,8 @@
   },
   "active": "12cd1662a10ddde8",
   "lastOpenFiles": [
-    "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
     "designs/1-GFC/GFC-0.md",
+    "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
     "designs/1-GFC/GFC-00.md",
     "designs/1-GFC/GFC-9.md",
     "designs/1-GFC/GFC-8.md",
