@@ -11,14 +11,17 @@
             "id": "323cc5483cb7ce46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "designs/2-CoSD/CoSD-overview.md",
-                "mode": "source",
-                "source": false
+                "file": "designs/1-GFC/GFC.canvas",
+                "viewState": {
+                  "x": 471.3150633690485,
+                  "y": 1095.465973678836,
+                  "zoom": -1.6296426845527383
+                }
               },
-              "icon": "lucide-file",
-              "title": "CoSD-overview"
+              "icon": "lucide-layout-dashboard",
+              "title": "GFC"
             }
           }
         ]
@@ -112,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
+            "file": "designs/1-GFC/GFC.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,9 +173,27 @@
   },
   "active": "323cc5483cb7ce46",
   "lastOpenFiles": [
-    "designs/1-GFC/GFC-overview.md",
+    "designs/4.1-MA/MA-overview.md",
+    "designs/3-R53M/R53M-overview.md",
     "designs/2-CoSD/CoSD-overview.md",
+    "designs/1-GFC/GFC.canvas",
+    "designs/1-GFC/GFC-8.md",
+    "designs/1-GFC/GFC-7.md",
+    "2026-03-07.md",
+    "designs/1-GFC/GFC-overview.md",
+    "designs/1-GFC/GFC-2.md",
     "designs/1-GFC/GFC-0.md",
+    "images/1-GFC/GFC-0.png",
+    "images/1-GFC/GFC-8.png",
+    "images/1-GFC/GFC-7.png",
+    "images/1-GFC/GFC-6.png",
+    "images/1-GFC/GFC-5.png",
+    "images/1-GFC/GFC-4.png",
+    "images/1-GFC/GFC-3.png",
+    "images/1-GFC/GFC-2.png",
+    "images/1-GFC/GFC-1.png",
+    "images/1-GFC/130613217807093792.png",
+    "images",
     "style.md",
     "tasks/tasks.md",
     "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
