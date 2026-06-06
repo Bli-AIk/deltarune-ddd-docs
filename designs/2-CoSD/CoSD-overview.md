@@ -1,8 +1,6 @@
----
-tags: [草案/DDD, 游戏/Touhou]
-created: 2026-03-07
----
-
+> 梦违科学世纪　～ Changeability of Strange Dream.
+> 
+> deltarune 第二章 赛博世界
 # Deltarune 原作 第二章 剧情概述
 
 ## 开场

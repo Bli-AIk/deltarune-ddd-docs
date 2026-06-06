@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"967b893e78fe4224","type":"file","file":"designs/2-CoSD/CoSD-overview.md","x":-560,"y":265,"width":360,"height":215,"color":"6"},
+		{"id":"152fdb282b23f57a","x":40,"y":600,"width":400,"height":225,"type":"file","file":"images/2-CoSD/CoSD-5.png"},
+		{"id":"bcf88d00869b7c74","x":40,"y":1315,"width":400,"height":225,"type":"file","file":"images/2-CoSD/CoSD-7.png"},
+		{"id":"d5f512ae2fba3c4f","x":40,"y":960,"width":400,"height":225,"type":"file","file":"images/2-CoSD/CoSD-6.png"},
+		{"id":"504be6f2f46a6e34","x":40,"y":1680,"width":400,"height":225,"type":"file","file":"images/2-CoSD/CoSD-8.png"},
+		{"id":"30efd3b383148a97","x":40,"y":2040,"width":400,"height":225,"type":"file","file":"images/2-CoSD/CoSD-9.png"}
+	],
+	"edges":[
+		{"id":"90fbb4f3bd0182c4","fromNode":"152fdb282b23f57a","fromSide":"bottom","toNode":"d5f512ae2fba3c4f","toSide":"top"},
+		{"id":"c33a8ddf497360c7","fromNode":"d5f512ae2fba3c4f","fromSide":"bottom","toNode":"bcf88d00869b7c74","toSide":"top"},
+		{"id":"53c66fc6108bff16","fromNode":"bcf88d00869b7c74","fromSide":"bottom","toNode":"504be6f2f46a6e34","toSide":"top"},
+		{"id":"08c0834625e374d2","fromNode":"504be6f2f46a6e34","fromSide":"bottom","toNode":"30efd3b383148a97","toSide":"top"}
+	]
+}

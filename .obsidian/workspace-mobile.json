@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "designs/1-GFC/GFC.canvas",
+                "file": "designs/2-CoSD/CoSD.canvas",
                 "viewState": {
-                  "x": 491.167131270898,
-                  "y": 2698.786114761447,
-                  "zoom": -1.6234284797570115
+                  "x": 16.034237194122085,
+                  "y": 1370.5574297129342,
+                  "zoom": -1.6148511395167937
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "GFC"
+              "title": "CoSD"
             }
           }
         ]
@@ -115,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "designs/1-GFC/GFC.canvas",
+            "file": "designs/2-CoSD/CoSD.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,26 +173,29 @@
   },
   "active": "323cc5483cb7ce46",
   "lastOpenFiles": [
-    "designs/1-GFC/GFC-overview.md",
+    "designs/2-CoSD/CoSD-overview.md",
+    "images/2-CoSD/CoSD-9.png",
+    "images/2-CoSD/CoSD-8.png",
+    "images/2-CoSD/CoSD-7.png",
+    "images/2-CoSD/CoSD-6.png",
+    "images/2-CoSD/CoSD-5.png",
+    "designs/2-CoSD/CoSD.canvas",
+    "images/2-CoSD/581981617807120372.png",
+    "images/2-CoSD/352833017807119502.png",
+    "images/2-CoSD/1192513817807131862.png",
+    "images/2-CoSD/1226422417807120082.png",
+    "images/2-CoSD/1057486817807131592.png",
+    "images/2-CoSD",
     "designs/1-GFC/GFC.canvas",
+    "designs/2-CoSD/未命名.md",
+    "designs/1-GFC/GFC-overview.md",
     "designs/4.1-MA/MA-overview.md",
     "designs/3-R53M/R53M-overview.md",
-    "designs/2-CoSD/CoSD-overview.md",
     "designs/1-GFC/GFC-8.md",
     "designs/1-GFC/GFC-7.md",
     "2026-03-07.md",
     "designs/1-GFC/GFC-2.md",
     "designs/1-GFC/GFC-0.md",
-    "images/1-GFC/GFC-0.png",
-    "images/1-GFC/GFC-8.png",
-    "images/1-GFC/GFC-7.png",
-    "images/1-GFC/GFC-6.png",
-    "images/1-GFC/GFC-5.png",
-    "images/1-GFC/GFC-4.png",
-    "images/1-GFC/GFC-3.png",
-    "images/1-GFC/GFC-2.png",
-    "images/1-GFC/GFC-1.png",
-    "images/1-GFC/130613217807093792.png",
     "images",
     "style.md",
     "tasks/tasks.md",
