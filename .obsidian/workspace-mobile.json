@@ -15,9 +15,9 @@
               "state": {
                 "file": "designs/1-GFC/GFC.canvas",
                 "viewState": {
-                  "x": 471.3150633690485,
-                  "y": 1095.465973678836,
-                  "zoom": -1.6296426845527383
+                  "x": 491.167131270898,
+                  "y": 2698.786114761447,
+                  "zoom": -1.6234284797570115
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -173,14 +173,14 @@
   },
   "active": "323cc5483cb7ce46",
   "lastOpenFiles": [
+    "designs/1-GFC/GFC-overview.md",
+    "designs/1-GFC/GFC.canvas",
     "designs/4.1-MA/MA-overview.md",
     "designs/3-R53M/R53M-overview.md",
     "designs/2-CoSD/CoSD-overview.md",
-    "designs/1-GFC/GFC.canvas",
     "designs/1-GFC/GFC-8.md",
     "designs/1-GFC/GFC-7.md",
     "2026-03-07.md",
-    "designs/1-GFC/GFC-overview.md",
     "designs/1-GFC/GFC-2.md",
     "designs/1-GFC/GFC-0.md",
     "images/1-GFC/GFC-0.png",

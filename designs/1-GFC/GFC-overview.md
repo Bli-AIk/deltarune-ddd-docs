@@ -1,8 +1,6 @@
----
-tags: [草案/DDD, 游戏/Touhou]
-created: 2026-03-07
----
-
+> 莲台野夜行　～ Ghostly Field Club.
+> 
+> deltarune 第一章 开始
 # Deltarune 原作 第一章 剧情概述
 
 ## 开场
