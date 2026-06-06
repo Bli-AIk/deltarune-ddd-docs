@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "designs/2-CoSD/CoSD.canvas",
+                "file": "designs/4.1-MA/MA.canvas",
                 "viewState": {
-                  "x": 16.034237194122085,
-                  "y": 1370.5574297129342,
-                  "zoom": -1.6148511395167937
+                  "x": 454.7874076707871,
+                  "y": 1694.7952764327158,
+                  "zoom": -1.4796901432743725
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "CoSD"
+              "title": "MA"
             }
           }
         ]
@@ -115,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "designs/2-CoSD/CoSD.canvas",
+            "file": "designs/4.1-MA/MA.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,24 +173,26 @@
   },
   "active": "323cc5483cb7ce46",
   "lastOpenFiles": [
+    "designs/4.1-MA/MA-overview.md",
+    "designs/4.1-MA/MA.canvas",
+    "images/4-MA/MA-8.png",
+    "images/4-MA/MA-7.png",
+    "images/4-MA/MA-6.png",
+    "images/4-MA/MA-5.png",
+    "images/4-MA/MA-4.png",
+    "designs/3-R53M/R53M-overview.md",
     "designs/2-CoSD/CoSD-overview.md",
-    "images/2-CoSD/CoSD-9.png",
-    "images/2-CoSD/CoSD-8.png",
-    "images/2-CoSD/CoSD-7.png",
-    "images/2-CoSD/CoSD-6.png",
-    "images/2-CoSD/CoSD-5.png",
+    "images/4-MA/MA-0.png",
+    "images/4-MA/974015617807139522.png",
+    "images/4-MA/1217974717807140032.png",
+    "images/4-MA/1130325817807140372.png",
+    "images/4-MA/1366494517807140562.png",
+    "images/4-MA",
     "designs/2-CoSD/CoSD.canvas",
-    "images/2-CoSD/581981617807120372.png",
-    "images/2-CoSD/352833017807119502.png",
-    "images/2-CoSD/1192513817807131862.png",
-    "images/2-CoSD/1226422417807120082.png",
-    "images/2-CoSD/1057486817807131592.png",
     "images/2-CoSD",
     "designs/1-GFC/GFC.canvas",
     "designs/2-CoSD/未命名.md",
     "designs/1-GFC/GFC-overview.md",
-    "designs/4.1-MA/MA-overview.md",
-    "designs/3-R53M/R53M-overview.md",
     "designs/1-GFC/GFC-8.md",
     "designs/1-GFC/GFC-7.md",
     "2026-03-07.md",

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"619ce35b7fca9dd8","type":"file","file":"designs/4.1-MA/MA-overview.md","x":-280,"y":80,"width":369,"height":200},
+		{"id":"ac182e07cd1855e8","x":320,"y":553,"width":400,"height":225,"type":"file","file":"images/4-MA/MA-0.png"},
+		{"id":"0c2b7d8e2413ef3f","x":320,"y":920,"width":400,"height":225,"type":"file","file":"images/4-MA/MA-4.png"},
+		{"id":"2ba95238f98ac725","x":320,"y":1280,"width":400,"height":225,"type":"file","file":"images/4-MA/MA-5.png"},
+		{"id":"8d794accbc8073ce","x":320,"y":1640,"width":400,"height":225,"type":"file","file":"images/4-MA/MA-6.png"},
+		{"id":"18590a38bfb4ce35","x":320,"y":2000,"width":400,"height":225,"type":"file","file":"images/4-MA/MA-7.png"},
+		{"id":"65dcd392ba582a99","x":320,"y":2360,"width":400,"height":225,"type":"file","file":"images/4-MA/MA-8.png"}
+	],
+	"edges":[]
+}

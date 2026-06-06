@@ -1,8 +1,6 @@
----
-tags: [草案/DDD, 游戏/Touhou]
-created: 2026-03-14
----
-
+> 大空魔术　～ Magical Astronomy.
+> 
+> deltarune 第四章 预言 （黑暗圣域部分）
 # Deltarune 原作 第四章 剧情概述
 
 我们直接从 黑暗圣域 部分开始。且 大空魔术 章不包含第二圣域和第三圣域的剧情。
