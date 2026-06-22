@@ -11,17 +11,14 @@
             "id": "323cc5483cb7ce46",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "designs/1-GFC/GFC.canvas",
-                "viewState": {
-                  "x": 671.1669935853597,
-                  "y": 3054.796789262481,
-                  "zoom": -0.9548663674246585
-                }
+                "file": "prompt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "GFC"
+              "icon": "lucide-file",
+              "title": "prompt"
             }
           }
         ]
@@ -174,9 +171,11 @@
   "active": "323cc5483cb7ce46",
   "lastOpenFiles": [
     "designs/1-GFC/GFC-8.md",
+    "prompt.md",
+    "designs/1-GFC/GFC.canvas",
+    "designs/1-GFC/GFC-0.md",
     "designs/1-GFC/GFC-ex.md",
     "designs/1-GFC/GFC-2.md",
-    "designs/1-GFC/GFC-0.md",
     "designs/4.1-MA/MA.canvas",
     "designs/0 蓬莱人形/00 总览.md",
     "designs/4.1-MA/MA-overview.md",
@@ -195,7 +194,6 @@
     "images/4-MA",
     "designs/2-CoSD/CoSD.canvas",
     "images/2-CoSD",
-    "designs/1-GFC/GFC.canvas",
     "designs/2-CoSD/未命名.md",
     "designs/1-GFC/GFC-overview.md",
     "designs/1-GFC/GFC-7.md",
