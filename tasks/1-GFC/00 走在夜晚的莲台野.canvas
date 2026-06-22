@@ -13,14 +13,16 @@
 		{"id":"4125fa18d658787a","type":"text","text":"#### 渲染系统架构？\n\n好吧，从现在开始，多pass的渲染就需要挂上日程了……\n\n这方面的架构我没写过，所以……\n\n~~瞎写就是了。~~","x":1280,"y":2210,"width":314,"height":240,"color":"4"},
 		{"id":"6d3d166d98b64158","type":"text","text":"#### 简单后处理试水\n\n先做个简单的模糊后处理吧。\n毕竟我们的所谓“蒙太奇”其实……\n\n也是要拿模糊效果的。\n\n实际上蒙太奇这个词用得对不对呢。希腊奶","x":888,"y":1810,"width":314,"height":240,"color":"4"},
 		{"id":"691fe4cd9928d9d5","type":"text","text":"#### 横轴：剪辑画面\n\n时间轴驱动即要求我……随着这曲目的节拍，在时间线上把故事剪好。\n\n……用代码的方式。","x":560,"y":1088,"width":250,"height":232,"color":"3"},
-		{"id":"fb168b4b410f66c6","type":"text","text":"#### 纵轴：视觉艺术\n\n视觉上的追求是我真心希望的——\n\n……但不能操之过急。\n\n如果死磕画面，容易给自己卷进去。","x":921,"y":1088,"width":248,"height":232,"color":"2"},
+		{"id":"fb168b4b410f66c6","type":"text","text":"#### 纵轴：视觉艺术\n\n视觉上的追求是我真心希望的——\n\n……但不能操之过急。\n\n如果死磕画面，容易给自己卷进去。","x":921,"y":1088,"width":248,"height":232,"color":"3"},
 		{"id":"ff870372dc99bd5b","type":"text","text":"#### 视听艺术\n\n我得做好一个心理准备——游戏的画面，在可能很长的一段时间内，无法达到我的预期。\n\n我想要光影，想要雾气，想要浓厚的氛围感，完全异于原作（可能是刻意的）极简主义。这样才能附和得上氛围。\n\n但盯着空空的，很原作很像但和我预期差距很远的画面，会很伤人心的。\n\n因此。我的计划是，先草图供上——**即便我有素材，我也先不用**。搞定渲染的所有问题后，再和贴图细节对线。嗯……\n","x":638,"y":560,"width":470,"height":320,"color":"2"},
 		{"id":"392241caf0edeeb6","type":"text","text":"#### UI?\n\n哦天哪。背包UI，对话UI。天哪。\n我们真的需要UI吗？\n实际上，我都有点想把背包废掉了。\n\n毕竟压根没有机会开背包啊。全程要么是过场动画，要么就是追逐战。\n\n所以就甭做背包了！哪有那么多麻烦的事情要操心呢。\n\n至于其他的，对话UI等等……需要的时候再做。\n\n最好是拖到最后。哈哈。\n\nYAGNI.","x":1280,"y":20,"width":360,"height":440,"color":"5"},
 		{"id":"2bad76031f70779c","type":"text","text":"### 第一部分：追逐战前\n\n这是本曲目的第一部分。即遇到 lanser 前的所有“过场动画”。\n\n这一部分没有任何弹幕。只有画面的过渡和角色的演出。\n\n也许还有少量的文本对话。","x":-14,"y":550,"width":388,"height":330,"color":"3"},
 		{"id":"5273ba87917f3a08","type":"text","text":"#### Tween\n\n缓动是离不开的——`animato`看样子很符合我的需求。直观而强大。\n\n我需要引入它，并且做一套它的小封装——让它以曲子的时间步进为准。","x":160,"y":1430,"width":314,"height":240,"color":"4"},
 		{"id":"5fe781b8ae09d597","type":"text","text":"#### Level\n\n我们需要把关卡简单封装为一个Level。\n\nLevel 是由音乐驱动的。因此需要先声明音乐，再进行Level。\n\n它就是后续一切演出的指挥所了。\n\n","x":28,"y":980,"width":305,"height":240,"color":"4"},
-		{"id":"67273af6f663e7c1","type":"text","text":"#### 真正搭建场景？\n\n我们先拿原作的截图凑合了事，但之后，我们需要把这些截图换成真正的场景布景。\n\n嗯，这就需要好好设计设计了，我们需要哪些“名场面……","x":1300,"y":1100,"width":291,"height":220,"color":"2"},
-		{"id":"7375dca0e4d52b5a","x":1316,"y":614,"width":260,"height":213,"color":"3","type":"text","text":"#### 瓦片地图\n\n我们需要瓦片地图——我们手头也有tiled……tiled也有和mecroquad的集成——那……\n\n集成就好了。"}
+		{"id":"67273af6f663e7c1","type":"text","text":"#### 真正搭建场景？\n\n我们先拿原作的截图凑合了事，但之后，我们需要把这些截图换成真正的场景布景。\n\n嗯，这就需要好好设计设计了，我们需要哪些“名场面……","x":1285,"y":1094,"width":291,"height":220,"color":"4"},
+		{"id":"7375dca0e4d52b5a","type":"text","text":"#### 瓦片地图\n\n我们需要瓦片地图——我们手头也有tiled……tiled也有和mecroquad的集成——那……\n\n集成就好了。","x":1730,"y":760,"width":260,"height":213,"color":"4"},
+		{"id":"0f911b1149a9869f","x":1730,"y":1114,"width":250,"height":180,"color":"4","type":"text","text":"####  引入 tiled 地图\n\n把 tiled 地图引入进来——嗯。\n\nopen-utdr-maps 立大功。"},
+		{"id":"f99e9f58c60c1989","x":2080,"y":722,"width":291,"height":289,"color":"4","type":"text","text":"####  Town Light，2.5d 光照！\n\n好吧。之前在 bevy vibe的成果并非一无是处。\n\n基于瓦片地图绘制mesh，配合法线贴图调整细节……\n\n我们现在至少有了一个勉强合格的光照系统了……吧。"}
 	],
 	"edges":[
 		{"id":"f92f8e5b6863c124","fromNode":"e4b913d2e17ff540","fromSide":"bottom","toNode":"bc04dc8d289621e6","toSide":"top"},
@@ -42,6 +44,8 @@
 		{"id":"8257f0fd919e5234","fromNode":"691fe4cd9928d9d5","fromSide":"bottom","toNode":"5273ba87917f3a08","toSide":"top"},
 		{"id":"c09e2b7170e1bf3a","fromNode":"2bad76031f70779c","fromSide":"bottom","toNode":"5fe781b8ae09d597","toSide":"top"},
 		{"id":"24cced225d388bfb","fromNode":"fb168b4b410f66c6","fromSide":"right","toNode":"67273af6f663e7c1","toSide":"left"},
-		{"id":"06e28d7feacb7044","fromNode":"ff870372dc99bd5b","fromSide":"right","toNode":"7375dca0e4d52b5a","toSide":"left"}
+		{"id":"06e28d7feacb7044","fromNode":"67273af6f663e7c1","fromSide":"top","toNode":"7375dca0e4d52b5a","toSide":"left"},
+		{"id":"96098d29d965fb41","fromNode":"7375dca0e4d52b5a","fromSide":"bottom","toNode":"0f911b1149a9869f","toSide":"top"},
+		{"id":"dc76424fdd7c9f91","fromNode":"7375dca0e4d52b5a","fromSide":"right","toNode":"f99e9f58c60c1989","toSide":"left"}
 	]
 }
