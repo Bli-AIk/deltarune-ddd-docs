@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "designs/4.1-MA/MA.canvas",
+                "file": "designs/1-GFC/GFC.canvas",
                 "viewState": {
-                  "x": 454.7874076707871,
-                  "y": 1694.7952764327158,
-                  "zoom": -1.4796901432743725
+                  "x": 671.1669935853597,
+                  "y": 3054.796789262481,
+                  "zoom": -0.9548663674246585
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "MA"
+              "title": "GFC"
             }
           }
         ]
@@ -173,8 +173,13 @@
   },
   "active": "323cc5483cb7ce46",
   "lastOpenFiles": [
-    "designs/4.1-MA/MA-overview.md",
+    "designs/1-GFC/GFC-8.md",
+    "designs/1-GFC/GFC-ex.md",
+    "designs/1-GFC/GFC-2.md",
+    "designs/1-GFC/GFC-0.md",
     "designs/4.1-MA/MA.canvas",
+    "designs/0 蓬莱人形/00 总览.md",
+    "designs/4.1-MA/MA-overview.md",
     "images/4-MA/MA-8.png",
     "images/4-MA/MA-7.png",
     "images/4-MA/MA-6.png",
@@ -193,11 +198,8 @@
     "designs/1-GFC/GFC.canvas",
     "designs/2-CoSD/未命名.md",
     "designs/1-GFC/GFC-overview.md",
-    "designs/1-GFC/GFC-8.md",
     "designs/1-GFC/GFC-7.md",
     "2026-03-07.md",
-    "designs/1-GFC/GFC-2.md",
-    "designs/1-GFC/GFC-0.md",
     "images",
     "style.md",
     "tasks/tasks.md",
