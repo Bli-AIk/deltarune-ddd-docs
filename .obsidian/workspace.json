@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "designs/1-GFC/GFC-0.md",
+                "file": "designs/5-NTJ/NTJ-overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GFC-0"
+              "title": "NTJ-overview"
             }
           }
         ]
@@ -185,6 +185,12 @@
   },
   "active": "f3788016994afb8a",
   "lastOpenFiles": [
+    "designs/4.1-MA/MA-overview.md",
+    "designs/4.1-MA/MA.canvas",
+    "designs/4.3-TGA/TGA-overview.md",
+    "designs/5-NTJ/NTJ-overview.md",
+    "designs/1-GFC/GFC-0.md",
+    "designs/5-NTJ",
     "designs/1-GFC/GFC.canvas",
     "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
     "tasks/tasks.md",
@@ -192,14 +198,10 @@
     "designs/1-GFC/GFC-2.md",
     "designs/1-GFC/GFC-7.md",
     "designs/1-GFC/GFC-ex.md",
-    "designs/1-GFC/GFC-0.md",
-    "designs/4.1-MA/MA.canvas",
     "designs/1-GFC/GFC-overview.md",
     "designs/1-GFC/GFC-9.md",
     "designs/0 蓬莱人形/02 二色莲花蝶.md",
     "designs/3-R53M/R53M-overview.md",
-    "designs/4.1-MA/MA-overview.md",
-    "designs/4.3-TGA/TGA-overview.md",
     "designs/4.2-UFMJ/UFMJ-overview.md",
     "designs/1-GFC/GFC-00.md",
     "_第四章 第二部分 未知之花 魅知之旅 总览.md",
@@ -219,9 +221,7 @@
     "music/1-GFC/GFC-8.wav",
     "music/1-GFC/GFC-1.wav",
     "music/1-GFC/GFC-6.wav",
-    "music/1-GFC/GFC-4.wav",
     "media-lib/GFC-01.md",
-    "style.md",
-    "main.md"
+    "style.md"
   ]
 }
