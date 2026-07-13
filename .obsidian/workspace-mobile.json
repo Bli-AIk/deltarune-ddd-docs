@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt.md",
+                "file": "designs/1-GFC/GFC-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prompt"
+              "title": "GFC-8"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "323cc5483cb7ce46",
   "lastOpenFiles": [
-    "designs/1-GFC/GFC-8.md",
     "prompt.md",
+    "designs/1-GFC/GFC-8.md",
     "designs/1-GFC/GFC.canvas",
     "designs/1-GFC/GFC-0.md",
     "designs/1-GFC/GFC-ex.md",
