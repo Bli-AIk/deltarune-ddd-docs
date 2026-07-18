@@ -12,6 +12,7 @@
 
 vs Aqua & Seth
 
+或者给pink（整个倒叙）？
 ### 第六十年的东方审判 ～ Fate of Sixty Years
 
 vs Yellow & Blue
@@ -33,3 +34,11 @@ vs Green  & Orange
 ### 收集日本各地的不可思议
 
 ### 在美妙的墓地里住下吧
+
+### （隐藏）神圣庄严的古战场
+
+vs Asgore
+
+位置位于城堡外的地表传送点，当kris在asgore撞来前挡住...大概如此。
+
+一对一。当然，这场战斗asgore不会真正伤害kris。可能会用某种miss之类的东西代替（这不真成车万了么草）

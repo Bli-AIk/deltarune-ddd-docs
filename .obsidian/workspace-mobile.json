@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "designs/1-GFC/GFC-8.md",
+                "file": "designs/5-NTJ/NTJ-overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GFC-8"
+              "title": "NTJ-overview"
             }
           }
         ]
@@ -170,15 +170,18 @@
   },
   "active": "323cc5483cb7ce46",
   "lastOpenFiles": [
-    "prompt.md",
+    "designs/1-GFC/GFC-overview.md",
+    "designs/4.1-MA/MA-overview.md",
+    "designs/4.1-MA/MA.canvas",
+    "designs/5-NTJ/NTJ-overview.md",
+    "main.md",
     "designs/1-GFC/GFC-8.md",
+    "prompt.md",
     "designs/1-GFC/GFC.canvas",
     "designs/1-GFC/GFC-0.md",
     "designs/1-GFC/GFC-ex.md",
     "designs/1-GFC/GFC-2.md",
-    "designs/4.1-MA/MA.canvas",
     "designs/0 蓬莱人形/00 总览.md",
-    "designs/4.1-MA/MA-overview.md",
     "images/4-MA/MA-8.png",
     "images/4-MA/MA-7.png",
     "images/4-MA/MA-6.png",
@@ -195,13 +198,11 @@
     "designs/2-CoSD/CoSD.canvas",
     "images/2-CoSD",
     "designs/2-CoSD/未命名.md",
-    "designs/1-GFC/GFC-overview.md",
     "designs/1-GFC/GFC-7.md",
     "2026-03-07.md",
     "images",
     "style.md",
     "tasks/tasks.md",
-    "tasks/1-GFC/00 走在夜晚的莲台野.canvas",
-    "main.md"
+    "tasks/1-GFC/00 走在夜晚的莲台野.canvas"
   ]
 }
