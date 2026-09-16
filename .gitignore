@@ -1,5 +1,4 @@
-# ===== Obsidian：只跟设置，不跟状态 =====
-# 全忽略 .obsidian，再白名单放回值得同步的配置
+# ===== Obsidian：只跟设置 + 插件，不跟状态/主题 =====
 .obsidian/*
 !.obsidian/app.json
 !.obsidian/appearance.json
@@ -8,7 +7,8 @@
 !.obsidian/hotkeys.json
 !.obsidian/snippets/
 !.obsidian/plugins/
-!.obsidian/themes/
+# 主题包（Catppuccin theme.css 单文件 2.3MB，重装一下就有，不该进 git）
+.obsidian/themes/
 
 # 状态 / 缓存类：会自动重生，diff 只添乱
 .obsidian/workspace.json
