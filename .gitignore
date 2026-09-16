@@ -28,3 +28,8 @@ Thumbs.db
 Desktop.ini
 *.swp
 *~
+
+# ===== 考据用原作截图（King 王座室分镜 62 张 / 21MB）=====
+# 口径见 designs/1-GFC/考据/考据-King王座室剧情分镜.md：「图片不进 git（省体积）」
+# 本地留档：yecao 与 firebat 各一份；手机 Pictures/bili/screenshot/ 是原始来源
+designs/1-GFC/考据/分镜-King王座室/
