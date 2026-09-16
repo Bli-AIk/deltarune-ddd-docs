@@ -1,0 +1,30 @@
+# ===== Obsidian：只跟设置，不跟状态 =====
+# 全忽略 .obsidian，再白名单放回值得同步的配置
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/hotkeys.json
+!.obsidian/snippets/
+!.obsidian/plugins/
+!.obsidian/themes/
+
+# 状态 / 缓存类：会自动重生，diff 只添乱
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-desktop.json
+.obsidian/graph.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/*.log
+
+# ===== Obsidian 回收站 =====
+.trash/
+
+# ===== OS / 编辑器 =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
