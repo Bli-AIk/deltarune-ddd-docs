@@ -1,0 +1,4 @@
+[submodule "music"]
+	path = music
+	url = https://github.com/Bli-AIk/deltarune-ddd-music.git
+	update = none

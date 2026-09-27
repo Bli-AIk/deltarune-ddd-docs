@@ -10,7 +10,7 @@
 
 ---
 
-![[GFC-0.wav]]
+![[GFC-0.ogg]]
 {music bpm=135 delay=0.3 meter=4/4 metronome=off}
 
 ### {b:1.1}
